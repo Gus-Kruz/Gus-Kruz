@@ -1,11 +1,11 @@
-# Hi, I'm Gustavo 👋
+# Oi, eu sou o Gustavo!
 
 Computer Engineering student at **UNICAMP** 🇧🇷  
 Currently learning how to build, break, and understand software and systems.
 
 ## About me
-- 🎓 Computer Engineering @ UNICAMP
-- 🧠 Interested in software development, algorithms, and computer systems
+- Videogame enthusiast 🎮
+- Interested in software development, algorithms, and computer systems
 - 🚀 Learning how to use Git, GitHub, and professional development workflows
 - 📚 Strong math and problem-solving background
 
