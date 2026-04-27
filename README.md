@@ -5,24 +5,24 @@ Currently learning how to build, break, and understand software and systems.
 
 ## About me
 - Videogame enthusiast 🎮
-- Interested in software development, algorithms, and computer systems
-- 🚀 Learning how to use Git, GitHub, and professional development workflows
-- 📚 Strong math and problem-solving background
+- Interested in optimization problems and operating systems
+- Crazy over physics simulations
 
 ## What I'm learning right now
-- Programming fundamentals (Python / C / C++)
+- Professional development workflows, React and TypeScript at **Conpec** 📊
+- Programming fundamentals and algorithms with Python
 - Git & GitHub (version control, collaboration)
-- Data structures and algorithms
-- Linux and development tools
+- Linux (i use arch btw) and development tools
 
 ## Projects
 This GitHub is a learning log.  
 You'll find:
-- Small practice projects
+- Personal projects
 - University assignments
-- Experiments and notes as I learn new concepts
+- Experiments and notes
+- Configs
 
 ## Goals
-- Become a solid software engineer with strong fundamentals
-- Contribute to open-source projects in the future
-- Build projects that solve real problems
+- Contribute to open-source projects
+- Build stuff that solves real problems
+- Make cool simulations
