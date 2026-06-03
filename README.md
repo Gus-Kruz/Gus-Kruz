@@ -12,7 +12,7 @@ Currently learning how to build, break, and understand software and systems.
 - Professional development workflows, React and TypeScript at **Conpec** 📊
 - Programming fundamentals and algorithms with Python
 - Git & GitHub (version control, collaboration)
-- Linux (i use arch btw) and development tools
+- Linux and development tools
 
 ## Projects
 This GitHub is a learning log.  
